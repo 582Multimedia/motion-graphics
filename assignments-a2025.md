@@ -1,14 +1,16 @@
 # Motion Graphics 2 Assignments
 
 ## Table of Contents
-1. [Fundamentals of Graphic Design in Motion](#exercise-exploring-the-fundamentals-of-graphic-design-in-motion)
-2. [2.5D Photoanimation with 3D Element](#assignment-25d-photoanimation-with-integrated-3d-element)
-3. [Four-Legged Creature Animation](#assignment-modeling-rigging-and-animating-a-four-legged-creature-with-physics-effects)
-4. [Logo Animation](#exercise--logo-animation)
-5. [Movie/TV Show Title Sequence](#lia-assignment-movie-or-tv-show-title-sequence)
-6. [Personal Demo Reel](#assignment-personal-demo-reel)
+1. [Exercise 1: Fundamentals of Graphic Design in Motion](#exercise-exploring-the-fundamentals-of-graphic-design-in-motion)
+2. [Project 1: 2.5D Photoanimation with 3D Element](#assignment-25d-photoanimation-with-integrated-3d-element)
+3. [Project 2: Multi-Legged Creature Animation](#assignment-modeling-rigging-and-animating-a-four-legged-creature-with-physics-effects)
+4. [Exercise 3: Logo Animation](#exercise--logo-animation)
+5. [LIA: Movie/TV Show Title Sequence](#lia-assignment-movie-or-tv-show-title-sequence)
+6. [Project 4: Personal Demo Reel](#assignment-personal-demo-reel)
 
-# Exercise: Exploring the Fundamentals of Graphic Design in Motion
+### exercises 20%, projects 40%, LIA 40%
+
+# Exercise 1: Exploring the Fundamentals of Graphic Design in Motion
 
 ## Overview
 This project invites you to experiment with abstraction and the core elements of graphic design through motion. Using After Effects (with optional support from Illustrator and/or Photoshop), you will create a short abstract video that explores and interprets five foundational design elements.
@@ -64,7 +66,7 @@ You are required to include all five of the following elements in your animation
 
 ---
 
-# Assignment: 2.5D Photoanimation with Integrated 3D Element
+# Project 1: 2.5D Photoanimation with Integrated 3D Element
 
 ## Overview
 This project challenges you to transform a still photograph (or a series of photos) into a dynamic 2.5D photoanimation using parallax, depth, and camera movement in After Effects. To push the creative boundaries further, you are required to integrate at least one 3D object into your animated scene. This could be a modeled object, a 3D element created in After Effects or imported from software like Blender or Adobe Dimension.
@@ -106,7 +108,7 @@ This project challenges you to transform a still photograph (or a series of phot
 
 ---
 
-# Assignment: Modeling, Rigging, and Animating a Four-Legged Creature with Physics Effects
+# Project 2: Modeling, Rigging, and Animating a Four-Legged Creature with Physics Effects
 
 ## Objective
 Create an original four-legged creature modeled in Blender, rigged using Rigify, animated, and incorporating interactive elements using particle systems and physics forces (collisions, force fields, etc.).
@@ -146,7 +148,7 @@ Create an original four-legged creature modeled in Blender, rigged using Rigify,
 
 ---
 
-# Exercise – Logo Animation
+# Exercise 3 – Logo Animation
 
 ## Objective 
 The goal of this assignment is to bring your personal logo to life by creating dynamic and engaging animations. 
@@ -169,7 +171,7 @@ Submit your animation in MP4 or MOV format with the filename `Animation_logo_YOU
 
 ---
 
-# LIA Assignment: Movie or TV Show Title Sequence
+# LIA Project 3: Movie or TV Show Title Sequence
 
 ## Overview
 This two-part project invites you to design and animate a title sequence for a movie or television show. You will explore visual storytelling, pacing, typography, and motion design to create an engaging and professional opening. You may use a real or fictional film/show, and you are encouraged to develop a strong mood or concept that aligns with the genre and tone of your chosen piece.
@@ -229,7 +231,7 @@ Using your storyboard as a foundation, animate a 45–60 second title sequence t
 
 ---
 
-# Assignment: Personal Demo Reel
+# Project 4: Personal Demo Reel
 
 ## Overview
 This project invites you to showcase your creative range and technical abilities through a professional demo reel. The reel should feature highlights from your multimedia and design work, presented in a cohesive, engaging, and polished sequence. This is your opportunity to present your best work in a format suitable for job applications, internships, portfolios, or personal branding.
