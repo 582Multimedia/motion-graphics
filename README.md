@@ -1,6 +1,10 @@
 # motion-graphics
 a 582 Multimedia resource for all things motion graphics.
 
+### links
+  - [MG2 assignments a2025](assignments-a2025.md)
+
+
 ## resources
 ### introductions & concepts
   - [what is "motion graphics" from Adobe themselves](https://www.adobe.com/uk/creativecloud/animation/discover/motion-graphics.html)
