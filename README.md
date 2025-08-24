@@ -2,7 +2,8 @@
 a 582 Multimedia resource for all things motion graphics.
 
 ### links
-  - [MG2 assignments a2025](assignments-a2025.md)
+  - [MG2 assignments a2025](/mg2-assignments-a2025.md)
+  - [MG2 schedule a2025](/mg2-schedule-a2025.md)
 
 
 ## resources
