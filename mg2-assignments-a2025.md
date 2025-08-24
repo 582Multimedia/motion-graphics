@@ -8,7 +8,12 @@
 5. [LIA: Movie/TV Show Title Sequence](#lia-assignment-movie-or-tv-show-title-sequence)
 6. [Project 4: Personal Demo Reel](#assignment-personal-demo-reel)
 
-### exercises 20%, projects 40%, LIA 40%
+[See Tentative Schedule](/mg2-schedule-a2025.md)
+
+### evaluation
+- exercises 20%
+- projects 40%
+- LIA 40%
 
 # Exercise 1: Exploring the Fundamentals of Graphic Design in Motion
 
@@ -58,11 +63,12 @@ You are required to include all five of the following elements in your animation
 3. Submit via Omnivox 
 
 ## Project Evaluation  
-* Creativity: 33% 
-* Design: 33% 
-* Technical Skills: 33% 
+* Creativity: 30% 
+* Design: 30% 
+* Technical Skills: 30% 
+* Professionalism: 10%
 
-> **Note:** Any assignments handed in after the due date will be subject to deductions of 10% per day.
+> **Note:** Projects & exercises submitted on time earn 10% for professionalism. Late assignments do NOT receive marks for professionalism. Unreasonably late assignments can earn a MAXIMUM of 60% total.
 
 ---
 
@@ -93,9 +99,10 @@ This project challenges you to transform a still photograph (or a series of phot
 * Submit via Omnivox
 
 ## Project Evaluation  
-* Creativity: 33% 
-* Design: 33% 
-* Technical Skills: 33% 
+* Creativity: 30% 
+* Design: 30% 
+* Technical Skills: 30% 
+* Professionalism: 10%
 
 ## Tips for Success
 * Choose a high-resolution photo with depth potential
@@ -104,7 +111,7 @@ This project challenges you to transform a still photograph (or a series of phot
 * Match lighting and perspective when placing the 3D object
 * Subtle motion is often more effective than exaggerated movement
 
-> **Note:** Any assignments handed in after the due date will be subject to deductions of 10% per day.
+> **Note:** Projects & exercises submitted on time earn 10% for professionalism. Late assignments do NOT receive marks for professionalism. Unreasonably late assignments can earn a MAXIMUM of 60% total.
 
 ---
 
@@ -140,11 +147,12 @@ Create an original four-legged creature modeled in Blender, rigged using Rigify,
 * Submit via Omnivox 
 
 ## Project Evaluation  
-* Creativity: 33% 
-* Design: 33% 
-* Technical Skills: 33% 
+* Creativity: 30% 
+* Design: 30% 
+* Technical Skills: 30% 
+* Professionalism: 10%
 
-> **Note:** Any assignments handed in after the due date will be subject to deductions of 10% per day.
+> **Note:** Projects & exercises submitted on time earn 10% for professionalism. Late assignments do NOT receive marks for professionalism. Unreasonably late assignments can earn a MAXIMUM of 60% total.
 
 ---
 
@@ -163,11 +171,11 @@ The goal of this assignment is to bring your personal logo to life by creating d
 Submit your animation in MP4 or MOV format with the filename `Animation_logo_YOUR_NAME` to Omnivox. Your animation should include your name.
 
 ## Project Evaluation  
-* Design: 33% 
-* Motion: 33% 
-* Technique: 33% 
+* Design: 30% 
+* Motion: 30% 
+* Technique: 30% 
 
-> **Note:** Any assignments handed in after the due date will be subject to deductions of 10% per day.
+> **Note:** Projects & exercises submitted on time earn 10% for professionalism. Late assignments do NOT receive marks for professionalism. Unreasonably late assignments can earn a MAXIMUM of 60% total.
 
 ---
 
@@ -217,9 +225,10 @@ Using your storyboard as a foundation, animate a 45–60 second title sequence t
 * Submit via Omnivox
 
 ## Project Evaluation  
-* Creativity: 33% 
-* Design: 33% 
-* Technical Skills: 33% 
+* Creativity: 30% 
+* Design: 30% 
+* Technical Skills: 30% 
+* Professionalism: 10%
 
 ## Tips for Success
 * Choose a clear and compelling visual style that matches the tone of your film/show
@@ -227,7 +236,7 @@ Using your storyboard as a foundation, animate a 45–60 second title sequence t
 * Pay attention to typography—make sure credits are readable and well-composed
 * Rewatch famous title sequences for inspiration (e.g., Stranger Things, Se7en, Catch Me If You Can, Westworld)
 
-> **Note:** Any assignments handed in after the due date will be subject to deductions of 10% per day.
+> **Note:** Projects & exercises submitted on time earn 10% for professionalism. Late assignments do NOT receive marks for professionalism. Unreasonably late assignments can earn a MAXIMUM of 60% total.
 
 ---
 
@@ -272,8 +281,9 @@ Each project should be clearly visible and presented with attention to timing, p
 * Start and End with a strong visual and your contact information
 
 ## Project Evaluation  
-* Creativity: 33% 
-* Design: 33% 
-* Technical Skills: 33% 
+* Creativity: 30% 
+* Design: 30% 
+* Technical Skills: 30% 
+* Professionalism: 10%
 
-> **Note:** Any assignments handed in after the due date will be subject to deductions of 10% per day.
+> **Note:** Projects & exercises submitted on time earn 10% for professionalism. Late assignments do NOT receive marks for professionalism. Unreasonably late assignments can earn a MAXIMUM of 60% total.
