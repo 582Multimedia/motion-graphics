@@ -7,7 +7,7 @@ a 582 Multimedia resource for all things motion graphics.
 
 ## add directly from VSC
 This is cool.
-
+![this is a bulldog](/images/bulldog.jpg)
 
 ## resources
 ### introductions & concepts
