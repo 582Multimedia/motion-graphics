@@ -5,6 +5,9 @@ a 582 Multimedia resource for all things motion graphics.
   - [MG2 assignments a2025](/mg2-assignments-a2025.md)
   - [MG2 schedule a2025](/mg2-schedule-a2025.md)
 
+## add directly from VSC
+This is cool.
+
 
 ## resources
 ### introductions & concepts
