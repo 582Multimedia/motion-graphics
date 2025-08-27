@@ -12,7 +12,12 @@ This is cool.
 ## resources
 ### introductions & concepts
   - [what is "motion graphics" from Adobe themselves](https://www.adobe.com/uk/creativecloud/animation/discover/motion-graphics.html)
+    - missing ["ABC of Architects"](https://vimeo.com/56974716)
   - and [another take from SVGator](https://www.svgator.com/blog/motion-design-basics-guide/) in more general terms including web animation
+
+
+### tutorials
+  - [Adobe's free AE courses](https://adobevideotraining.com/after-effects/introductory-courses/?utm_source=after-effects-product)
 
 
 ### examples
