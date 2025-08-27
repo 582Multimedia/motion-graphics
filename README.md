@@ -1,11 +1,11 @@
 # motion-graphics
 a 582 Multimedia resource for all things motion graphics.
 
-### links
+### Motion Graphics 2 links
   - [MG2 assignments a2025](/mg2-assignments-a2025.md)
   - [MG2 schedule a2025](/mg2-schedule-a2025.md)
 
-## add directly from VSC
+## added directly from VSC
 This is cool.
 ![this is a bulldog](/images/bulldog.jpg)
 
@@ -18,6 +18,8 @@ This is cool.
 
 ### tutorials
   - [Adobe's free AE courses](https://adobevideotraining.com/after-effects/introductory-courses/?utm_source=after-effects-product)
+  - [Ben Marriot -motion graphics YouTuber](https://www.youtube.com/BenMarriott)
+  - [more Adobe tutorials](https://www.youtube.com/playlist?list=PLzTRmaCL97qvBfveISskItJ04S0WPOEwT)
 
 
 ### examples
