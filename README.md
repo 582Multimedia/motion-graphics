@@ -24,6 +24,12 @@ This is cool. So is this.
 
 
 ### examples
-  - [Fiona phone ad](https://youtu.be/v0b9tmwfK9s)
+  - [Fiona lipstick](https://youtu.be/Qj3ao-cCkxM)
   - [Stephanie cyberpunk UI](https://youtu.be/b8RWat82WtU)
   - [Linh Crocs infographic](https://youtu.be/ioxyoVER_Fk)
+
+<!-- Lipstick: https://youtu.be/Qj3ao-cCkxM?si=w--mK5Tf7-ShFpjA
+
+Infographic: https://youtu.be/4ENgHGR3Blo?si=zDe3pxM2qKxX7nxB
+
+Drink Ad: https://youtu.be/2E0FqQoBsHc?si=nS2AtLNdVvTZ5U8f -->
