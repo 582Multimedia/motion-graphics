@@ -1,6 +1,7 @@
 # Ignore system files
 .DS_Store
 Thumbs.db
+Adobe After Effects Auto-Save
 
 # Ignore IDE/editor specific files
 .vscode/
