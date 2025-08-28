@@ -1,7 +1,7 @@
 # motion-graphics
 a 582 Multimedia resource for all things motion graphics.
 
-### links
+### Motion Graphics 2 links
   - [MG2 assignments a2025](/mg2-assignments-a2025.md)
   - [MG2 schedule a2025](/mg2-schedule-a2025.md)
 
@@ -12,7 +12,15 @@ This is cool. So is this.
 ## resources
 ### introductions & concepts
   - [what is "motion graphics" from Adobe themselves](https://www.adobe.com/uk/creativecloud/animation/discover/motion-graphics.html)
+    - missing ["ABC of Architects"](https://vimeo.com/56974716)
   - and [another take from SVGator](https://www.svgator.com/blog/motion-design-basics-guide/) in more general terms including web animation
+
+
+### tutorials
+  - [Adobe's free AE courses](https://adobevideotraining.com/after-effects/introductory-courses/?utm_source=after-effects-product)
+  - [Ben Marriot -motion graphics YouTuber](https://www.youtube.com/BenMarriott)
+  - [more Adobe tutorials](https://www.youtube.com/playlist?list=PLzTRmaCL97qvBfveISskItJ04S0WPOEwT)
+  - [learn MoGraph -YouTube playlist](https://www.youtube.com/@learnmograph)
 
 
 ### examples
