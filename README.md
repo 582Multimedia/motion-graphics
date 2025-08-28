@@ -6,7 +6,7 @@ a 582 Multimedia resource for all things motion graphics.
   - [MG2 schedule a2025](/mg2-schedule-a2025.md)
 
 ## add directly from VSC
-This is cool.
+This is cool. So is this.
 ![this is a bulldog](/images/bulldog.jpg)
 
 ## resources
