@@ -22,6 +22,7 @@ This is cool. So is this.
   - [more Adobe tutorials](https://www.youtube.com/playlist?list=PLzTRmaCL97qvBfveISskItJ04S0WPOEwT)
   - [learn MoGraph -YouTube playlist](https://www.youtube.com/@learnmograph)
   - [Jess graphic / motion designer](https://youtu.be/0N0NHlvMEWs?si=bwFFzlRHJleOhv11)
+  - [Envato Tuts motion graphics playlist](https://www.youtube.com/playlist?list=PLgGbWId6zgaV9QYvGLQF_hWgTR5jk_s_q)
 
 
 ### examples
