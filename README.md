@@ -5,9 +5,8 @@ a 582 Multimedia resource for all things motion graphics.
   - [MG2 assignments a2025](/mg2-assignments-a2025.md)
   - [MG2 schedule a2025](/mg2-schedule-a2025.md)
 
-## add directly from VSC
-This is cool. So is this.
-![this is a bulldog](/images/bulldog.jpg)
+## demo files in the "after-effects" folder
+- [demos](/after-effects/)
 
 ## resources
 ### introductions & concepts
