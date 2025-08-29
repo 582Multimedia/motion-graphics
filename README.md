@@ -21,6 +21,7 @@ This is cool. So is this.
   - [Ben Marriot -motion graphics YouTuber](https://www.youtube.com/BenMarriott)
   - [more Adobe tutorials](https://www.youtube.com/playlist?list=PLzTRmaCL97qvBfveISskItJ04S0WPOEwT)
   - [learn MoGraph -YouTube playlist](https://www.youtube.com/@learnmograph)
+  - [Jess graphic / motion designer](https://youtu.be/0N0NHlvMEWs?si=bwFFzlRHJleOhv11)
 
 
 ### examples
