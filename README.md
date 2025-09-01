@@ -23,6 +23,10 @@ a 582 Multimedia resource for all things motion graphics.
   - [Jess graphic / motion designer](https://youtu.be/0N0NHlvMEWs?si=bwFFzlRHJleOhv11)
   - [Envato Tuts motion graphics playlist](https://www.youtube.com/playlist?list=PLgGbWId6zgaV9QYvGLQF_hWgTR5jk_s_q)
 
+### expressions in After Effects
+We can use javascript-like code in After Effects.
+ - [loop( ); expression](https://www.schoolofmotion.com/blog/loop-expression-after-effects)
+ - [wiggle( ); expression](https://www.schoolofmotion.com/blog/wiggle-expression)
 
 ### examples
   - [Fiona lipstick](https://youtu.be/Qj3ao-cCkxM)
