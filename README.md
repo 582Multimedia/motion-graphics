@@ -13,6 +13,7 @@ a 582 Multimedia resource for all things motion graphics.
   - [what is "motion graphics" from Adobe themselves](https://www.adobe.com/uk/creativecloud/animation/discover/motion-graphics.html)
     - missing ["ABC of Architects"](https://vimeo.com/56974716)
   - and [another take from SVGator](https://www.svgator.com/blog/motion-design-basics-guide/) in more general terms including web animation
+  - [text effects gallery (Adobe)](https://blog.motionisland.com/after-effects-presets-text-animation/)
 
 
 ### tutorials
@@ -22,6 +23,7 @@ a 582 Multimedia resource for all things motion graphics.
   - [learn MoGraph -YouTube playlist](https://www.youtube.com/@learnmograph)
   - [Jess graphic / motion designer](https://youtu.be/0N0NHlvMEWs?si=bwFFzlRHJleOhv11)
   - [Envato Tuts motion graphics playlist](https://www.youtube.com/playlist?list=PLgGbWId6zgaV9QYvGLQF_hWgTR5jk_s_q)
+  - [Marvel title sequence (Ben Mariott)](https://blog.motionisland.com/after-effects-presets-text-animation/)
 
 ### expressions in After Effects
 We can use javascript-like code in After Effects.
