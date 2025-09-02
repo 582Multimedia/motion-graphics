@@ -29,7 +29,7 @@ a 582 Multimedia resource for all things motion graphics.
 We can use javascript-like code in After Effects.
  - [loop( ); expression](https://www.schoolofmotion.com/blog/loop-expression-after-effects)
  - [wiggle( ); expression](https://www.schoolofmotion.com/blog/wiggle-expression)
-
+ - [top 10 expressions (YouTube video)](https://www.youtube.com/watch?v=wzg9ARFHu3E)
 ### examples
   - [Fiona lipstick](https://youtu.be/Qj3ao-cCkxM)
   - [Stephanie cyberpunk UI](https://youtu.be/b8RWat82WtU)
