@@ -24,6 +24,8 @@ a 582 Multimedia resource for all things motion graphics.
   - [Jess graphic / motion designer](https://youtu.be/0N0NHlvMEWs?si=bwFFzlRHJleOhv11)
   - [Envato Tuts motion graphics playlist](https://www.youtube.com/playlist?list=PLgGbWId6zgaV9QYvGLQF_hWgTR5jk_s_q)
   - [Marvel title sequence (Ben Mariott)](https://blog.motionisland.com/after-effects-presets-text-animation/)
+  - [Parallax Animation 2.5 D](https://www.youtube.com/watch?v=cVtqsvsHi3M)
+  - [Import 3D modeling object in After Effect](https://helpx.adobe.com/ca/after-effects/using/import-3d-model.html)
   - [CC Particle Systems II + CC Particle World](https://www.youtube.com/watch?v=7Fp9207Ds5I&t=130s)
   - [4 Puppet Pin Techniques](https://www.youtube.com/watch?v=Fqls8BOZ-u0)
 
