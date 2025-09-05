@@ -40,8 +40,8 @@ We can use javascript-like code in After Effects.
 - [2.5 D Photo animation](https://www.instagram.com/andreimallmann/%E2%80%8B)
 - [Kinetic typography](https://studiodumbar.com/work)
 - [Logo animation](https://www.youtube.com/watch?v=l5ayGzKrsT4​)
-- [Movie title animation](https://www.artofthetitle.com]
-- [Demo reel portfolio](https://www.youtube.com/watch?v=l5ayGzKrsT4​](https://www.behance.net/moodboard/219705849/SHOWREEL)
+- [Movie title animation](https://www.artofthetitle.com)
+- [Demo reel portfolio](https://www.behance.net/moodboard/219705849/SHOWREEL)
 - [Medley](https://www.behance.net/moodboard/199249939/Motion)
   
 ### examples
