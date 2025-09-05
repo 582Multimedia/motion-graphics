@@ -36,7 +36,14 @@ We can use javascript-like code in After Effects.
  - [wiggle( ); expression](https://www.schoolofmotion.com/blog/wiggle-expression)
  - [top 10 expressions (YouTube video)](https://www.youtube.com/watch?v=wzg9ARFHu3E)
 
-
+### inspirations
+- [2.5 D Photo animation](https://www.instagram.com/andreimallmann/%E2%80%8B)
+- [Kinetic typography](https://studiodumbar.com/work)
+- [Logo animation](https://www.youtube.com/watch?v=l5ayGzKrsT4​)
+- [Movie title animation](https://www.artofthetitle.com]
+- [Demo reel portfolio](https://www.youtube.com/watch?v=l5ayGzKrsT4​](https://www.behance.net/moodboard/219705849/SHOWREEL)
+- [Medley](https://www.behance.net/moodboard/199249939/Motion)
+  
 ### examples
   - [Fiona lipstick](https://youtu.be/Qj3ao-cCkxM)
   - [Stephanie cyberpunk UI](https://youtu.be/b8RWat82WtU)
