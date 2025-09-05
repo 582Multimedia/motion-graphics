@@ -1,6 +1,8 @@
 # motion-graphics
 a 582 Multimedia resource for all things motion graphics.
 
+>Motion is life and life is motion
+
 ### Motion Graphics 2 links
   - [MG2 assignments a2025](/mg2-assignments-a2025.md)
   - [MG2 schedule a2025](/mg2-schedule-a2025.md)
