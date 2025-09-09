@@ -40,6 +40,7 @@ We can use javascript-like code in After Effects.
 
 ### inspirations
 - [2.5 D Photo animation](https://www.instagram.com/andreimallmann/%E2%80%8B)
+- [2.5 D Photo animation_starwars](https://www.willmacneil.com/portfolio/sky-movies-star-wars))
 - [Kinetic typography](https://studiodumbar.com/work)
 - [Logo animation](https://www.youtube.com/watch?v=l5ayGzKrsT4​)
 - [Movie title animation](https://www.artofthetitle.com)
