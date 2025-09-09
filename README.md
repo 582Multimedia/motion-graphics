@@ -43,6 +43,7 @@ We can use javascript-like code in After Effects.
 - [Kinetic typography](https://studiodumbar.com/work)
 - [Logo animation](https://www.youtube.com/watch?v=l5ayGzKrsT4​)
 - [Movie title animation](https://www.artofthetitle.com)
+- [Movie title animation - territory studio](https://territorystudio.com/project-category/titles-design/)
 - [Demo reel portfolio](https://www.behance.net/moodboard/219705849/SHOWREEL)
 - [Medley](https://www.behance.net/moodboard/199249939/Motion)
   
