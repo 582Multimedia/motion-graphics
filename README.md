@@ -31,7 +31,7 @@ a 582 Multimedia resource for all things motion graphics.
   - [2.5d parallax tutorial](https://youtu.be/OXBAtBtgkMw)
   - [2.5d orbit tutorial](https://motionarray.com/learn/software/after-effects-software/2-5d-animation/)
   - [2.5d parallax train tutoria](https://youtu.be/mrGxz3BCCz8)
-     -[Nijat Ibrahimli YouTube channel](https://www.youtube.com/@nijatIbrahimli/videos?view=0&sort=dd&shelf_id=2)
+     - [Nijat Ibrahimli YouTube channel](https://www.youtube.com/@nijatIbrahimli/videos?view=0&sort=dd&shelf_id=2)
   - [Import 3D modeling object in After Effect](https://helpx.adobe.com/ca/after-effects/using/import-3d-model.html)
   - [CC Particle Systems II + CC Particle World](https://www.youtube.com/watch?v=7Fp9207Ds5I&t=130s)
   - [4 Puppet Pin Techniques](https://www.youtube.com/watch?v=Fqls8BOZ-u0)
