@@ -10,6 +10,7 @@ a 582 Multimedia resource for all things motion graphics.
 
 ## demo files in the "after-effects" folder
 - [demos](/after-effects/)
+- [Bruce's 2.d animation Figma](https://www.figma.com/design/M4xU4wZLo3cmEB9TeI2KEG/2.5d-animation?node-id=1-2&t=frxlDJymgnxeDOiM-1)
 
 ## resources
 ### introductions & concepts
@@ -28,6 +29,10 @@ a 582 Multimedia resource for all things motion graphics.
   - [Envato Tuts motion graphics playlist](https://www.youtube.com/playlist?list=PLgGbWId6zgaV9QYvGLQF_hWgTR5jk_s_q)
   - [Marvel title sequence (Ben Mariott)](https://blog.motionisland.com/after-effects-presets-text-animation/)
   - [Parallax Animation 2.5 D](https://www.youtube.com/watch?v=cVtqsvsHi3M)
+  - [2.5d parallax tutorial](https://youtu.be/OXBAtBtgkMw)
+  - [2.5d orbit tutorial](https://motionarray.com/learn/software/after-effects-software/2-5d-animation/)
+  - [2.5d parallax train tutoria](https://youtu.be/mrGxz3BCCz8)
+     - [Nijat Ibrahimli YouTube channel](https://www.youtube.com/@nijatIbrahimli/videos?view=0&sort=dd&shelf_id=2)
   - [Import 3D modeling object in After Effect](https://helpx.adobe.com/ca/after-effects/using/import-3d-model.html)
   - [CC Particle Systems II + CC Particle World](https://www.youtube.com/watch?v=7Fp9207Ds5I&t=130s)
   - [4 Puppet Pin Techniques](https://www.youtube.com/watch?v=Fqls8BOZ-u0)
@@ -41,7 +46,8 @@ We can use javascript-like code in After Effects.
 
 ### inspirations
 - [2.5 D Photo animation](https://www.instagram.com/andreimallmann/%E2%80%8B)
-- [2.5 D Photo animation_starwars](https://www.willmacneil.com/portfolio/sky-movies-star-wars))
+- [2.5 D Photo animation_starwars](https://www.willmacneil.com/portfolio/sky-movies-star-wars)
+
 - [Kinetic typography](https://studiodumbar.com/work)
 - [Logo animation](https://www.youtube.com/watch?v=l5ayGzKrsT4​)
 - [Movie title animation](https://www.artofthetitle.com)
