@@ -6,6 +6,8 @@ a 582 Multimedia resource for all things motion graphics.
 ### Motion Graphics 2 links
   - [MG2 assignments a2025](/mg2-assignments-a2025.md)
   - [MG2 schedule a2025](/mg2-schedule-a2025.md)
+  - [fundamentals loop YouTube](https://youtu.be/56JMW_uh92s)
+  - [fundamentals loop 2 Youtube](https://youtu.be/Po6pBlqOiIU)
 
 ## demo files in the "after-effects" folder
 - [demos](/after-effects/)
