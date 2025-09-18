@@ -35,6 +35,7 @@ a 582 Multimedia resource for all things motion graphics.
   - [Vintage Parallax Photo Animation](https://www.youtube.com/watch?v=t7pDknj-AO4&t=47s)
   - [Import 3D modeling object in After Effect](https://helpx.adobe.com/ca/after-effects/using/import-3d-model.html)
   - [CC Particle Systems II + CC Particle World](https://www.youtube.com/watch?v=7Fp9207Ds5I&t=130s)
+  - [CC Particle World Custom Shapes](https://www.youtube.com/watch?v=XxwxSXhU52Q)
   - [Particle Systems in Blender](https://www.youtube.com/watch?v=Lj2EBG2_ooQ)
   - [4 Puppet Pin Techniques](https://www.youtube.com/watch?v=Fqls8BOZ-u0)
   - [Character Rigging in After Effects](https://www.youtube.com/watch?v=iMuG6okkm58)
