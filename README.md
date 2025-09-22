@@ -60,6 +60,7 @@ We can use javascript-like code in After Effects.
 
 ### Documentary
 - [Dan Perri-the guy behind star wars logo](https://www.artofthetitle.com/designer/dan-perri/)
+- [Saul Bass- Advice to Design Students](https://www.youtube.com/watch?v=S7l0mIlzx_I)
   
 ### examples
   - [Fiona lipstick](https://youtu.be/Qj3ao-cCkxM)
