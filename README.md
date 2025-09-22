@@ -56,6 +56,9 @@ We can use javascript-like code in After Effects.
 - [Movie title animation - territory studio](https://territorystudio.com/project-category/titles-design/)
 - [Demo reel portfolio](https://www.behance.net/moodboard/219705849/SHOWREEL)
 - [Medley](https://www.behance.net/moodboard/199249939/Motion)
+
+### Documentary
+- [Dan Perri-the guy behind star wars logo](https://www.artofthetitle.com/designer/dan-perri/)
   
 ### examples
   - [Fiona lipstick](https://youtu.be/Qj3ao-cCkxM)
