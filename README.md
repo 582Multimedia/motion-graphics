@@ -39,12 +39,9 @@ a 582 Multimedia resource for all things motion graphics.
   - [Particle Systems in Blender](https://www.youtube.com/watch?v=Lj2EBG2_ooQ)
   - [4 Puppet Pin Techniques](https://www.youtube.com/watch?v=Fqls8BOZ-u0)
   - [Character Rigging in After Effects](https://www.youtube.com/watch?v=iMuG6okkm58)
-<<<<<<< HEAD
   - [SonDuck: animating logos](https://youtu.be/M2S-6ptUvus?si=8CPFDJG5x3O3c70x)
-=======
   - [Animate Characters in AE](https://www.youtube.com/watch?v=ojJUToDaVd0)
     
->>>>>>> 1935dd21895507a51000683e7ead85e7eb185e5a
 
 ### expressions in After Effects
 We can use javascript-like code in After Effects.
