@@ -39,7 +39,7 @@ a 582 Multimedia resource for all things motion graphics.
   - [Particle Systems in Blender](https://www.youtube.com/watch?v=Lj2EBG2_ooQ)
   - [4 Puppet Pin Techniques](https://www.youtube.com/watch?v=Fqls8BOZ-u0)
   - [Character Rigging in After Effects](https://www.youtube.com/watch?v=iMuG6okkm58)
-  - [SonDuck: animating logos](https://youtu.be/M2S-6ptUvus?si=8CPFDJG5x3O3c70x)
+  - [SonDuck: animating logos](https://youtu.be/M2S-6ptUvus)
   - [Animate Characters in AE](https://www.youtube.com/watch?v=ojJUToDaVd0)
     
 
