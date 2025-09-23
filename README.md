@@ -35,10 +35,11 @@ a 582 Multimedia resource for all things motion graphics.
   - [Vintage Parallax Photo Animation](https://www.youtube.com/watch?v=t7pDknj-AO4&t=47s)
   - [Import 3D modeling object in After Effect](https://helpx.adobe.com/ca/after-effects/using/import-3d-model.html)
   - [CC Particle Systems II + CC Particle World](https://www.youtube.com/watch?v=7Fp9207Ds5I&t=130s)
+  - [CC Particle World Custom Shapes](https://www.youtube.com/watch?v=XxwxSXhU52Q)
   - [Particle Systems in Blender](https://www.youtube.com/watch?v=Lj2EBG2_ooQ)
   - [4 Puppet Pin Techniques](https://www.youtube.com/watch?v=Fqls8BOZ-u0)
   - [Character Rigging in After Effects](https://www.youtube.com/watch?v=iMuG6okkm58)
-  - [SonDuck: animating logos](https://youtu.be/M2S-6ptUvus?si=8CPFDJG5x3O3c70x)
+  - 
 
 ### expressions in After Effects
 We can use javascript-like code in After Effects.
@@ -55,6 +56,10 @@ We can use javascript-like code in After Effects.
 - [Movie title animation - territory studio](https://territorystudio.com/project-category/titles-design/)
 - [Demo reel portfolio](https://www.behance.net/moodboard/219705849/SHOWREEL)
 - [Medley](https://www.behance.net/moodboard/199249939/Motion)
+
+### Documentary
+- [Dan Perri-the guy behind star wars logo](https://www.artofthetitle.com/designer/dan-perri/)
+- [Saul Bass- Advice to Design Students](https://www.youtube.com/watch?v=S7l0mIlzx_I)
   
 ### examples
   - [Fiona lipstick](https://youtu.be/Qj3ao-cCkxM)
