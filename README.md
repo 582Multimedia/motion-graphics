@@ -43,6 +43,7 @@ a 582 Multimedia resource for all things motion graphics.
   - [Character Rigging in After Effects](https://www.youtube.com/watch?v=iMuG6okkm58)
   - [SonDuck: animating logos](https://youtu.be/M2S-6ptUvus)
   - [Animate Characters in AE](https://www.youtube.com/watch?v=ojJUToDaVd0)
+  - [Animate Characters in Blender - RIGIFY](https://www.youtube.com/watch?v=PKPo0-leJmU)
   - [puppet tools for Fernanda](https://youtu.be/Fqls8BOZ-u0)
     
 
