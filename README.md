@@ -23,6 +23,7 @@ a 582 Multimedia resource for all things motion graphics.
 
 
 ### tutorials
+  - [import Blender * animations *](https://youtu.be/HS9mNpfYmkI)
   - [AE Basics YouTube channel](https://www.youtube.com/@AfterEffectsBasics)
   - [top VFX -Sonduck](https://www.youtube.com/watch?v=8_yJQBs2JVI)
   - [Rotoscoping tutorial](https://youtu.be/eoOIrdb_0ko)
