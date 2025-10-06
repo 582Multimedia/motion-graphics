@@ -24,7 +24,6 @@ a 582 Multimedia resource for all things motion graphics.
 
 ### tutorials
   #### Blender
-  
   - [beginner character modelling](https://youtu.be/O6HQhs-gk50)
   - [beginner character sculpting](https://youtu.be/E79SLGdOGPw)
   - [beginner skin-modifier stick characters](https://youtu.be/DAAwy_l4jw4)
