@@ -23,7 +23,22 @@ a 582 Multimedia resource for all things motion graphics.
 
 
 ### tutorials
+  #### Blender
   - [import Blender * animations *](https://youtu.be/HS9mNpfYmkI)
+  - [beginner character modelling](https://youtu.be/O6HQhs-gk50)
+  - [Animate Characters in AE](https://www.youtube.com/watch?v=ojJUToDaVd0)
+  - [Animate Characters in Blender - RIGIFY](https://www.youtube.com/watch?v=PKPo0-leJmU)
+  - [Import 3D modeling object in After Effect](https://helpx.adobe.com/ca/after-effects/using/import-3d-model.html)
+
+  #### characters & rigging
+  - [CC Particle Systems II + CC Particle World](https://www.youtube.com/watch?v=7Fp9207Ds5I&t=130s)
+  - [CC Particle World Custom Shapes](https://www.youtube.com/watch?v=XxwxSXhU52Q)
+  - [Particle Systems in Blender](https://www.youtube.com/watch?v=Lj2EBG2_ooQ)
+  - [4 Puppet Pin Techniques](https://www.youtube.com/watch?v=Fqls8BOZ-u0)
+  - [Character Rigging in After Effects](https://www.youtube.com/watch?v=iMuG6okkm58)
+  - [puppet tools for Fernanda](https://youtu.be/Fqls8BOZ-u0)
+
+  #### After Effects
   - [AE Basics YouTube channel](https://www.youtube.com/@AfterEffectsBasics)
   - [top VFX -Sonduck](https://www.youtube.com/watch?v=8_yJQBs2JVI)
   - [Rotoscoping tutorial](https://youtu.be/eoOIrdb_0ko)
@@ -36,15 +51,7 @@ a 582 Multimedia resource for all things motion graphics.
   - [Marvel title sequence (Ben Mariott)](https://blog.motionisland.com/after-effects-presets-text-animation/)
   - [Parallax Animation 2.5 D](https://www.youtube.com/watch?v=cVtqsvsHi3M)
   - [Vintage Parallax Photo Animation](https://www.youtube.com/watch?v=t7pDknj-AO4&t=47s)
-  - [Import 3D modeling object in After Effect](https://helpx.adobe.com/ca/after-effects/using/import-3d-model.html)
-  - [CC Particle Systems II + CC Particle World](https://www.youtube.com/watch?v=7Fp9207Ds5I&t=130s)
-  - [CC Particle World Custom Shapes](https://www.youtube.com/watch?v=XxwxSXhU52Q)
-  - [Particle Systems in Blender](https://www.youtube.com/watch?v=Lj2EBG2_ooQ)
-  - [4 Puppet Pin Techniques](https://www.youtube.com/watch?v=Fqls8BOZ-u0)
-  - [Character Rigging in After Effects](https://www.youtube.com/watch?v=iMuG6okkm58)
   - [SonDuck: animating logos](https://youtu.be/M2S-6ptUvus)
-  - [Animate Characters in AE](https://www.youtube.com/watch?v=ojJUToDaVd0)
-  - [Animate Characters in Blender - RIGIFY](https://www.youtube.com/watch?v=PKPo0-leJmU)
   - [puppet tools for Fernanda](https://youtu.be/Fqls8BOZ-u0)
     
 
