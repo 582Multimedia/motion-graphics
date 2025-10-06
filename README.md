@@ -24,11 +24,17 @@ a 582 Multimedia resource for all things motion graphics.
 
 ### tutorials
   #### Blender
-  - [import Blender * animations *](https://youtu.be/HS9mNpfYmkI)
+  
   - [beginner character modelling](https://youtu.be/O6HQhs-gk50)
-  - [Animate Characters in AE](https://www.youtube.com/watch?v=ojJUToDaVd0)
+  - [beginner character sculpting](https://youtu.be/E79SLGdOGPw)
+  - [beginner skin-modifier stick characters](https://youtu.be/DAAwy_l4jw4)
   - [Animate Characters in Blender - RIGIFY](https://www.youtube.com/watch?v=PKPo0-leJmU)
-  - [Import 3D modeling object in After Effect](https://helpx.adobe.com/ca/after-effects/using/import-3d-model.html)
+
+
+  #### 3d objects in After Effects
+  - [import Blender * animations *](https://youtu.be/HS9mNpfYmkI)
+    - [Import 3D modeling object in After Effect](https://helpx.adobe.com/ca/after-effects/using/import-3d-model.html)
+    - [Animate Characters in AE](https://www.youtube.com/watch?v=ojJUToDaVd0)
 
   #### characters & rigging
   - [CC Particle Systems II + CC Particle World](https://www.youtube.com/watch?v=7Fp9207Ds5I&t=130s)
