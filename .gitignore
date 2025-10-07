@@ -15,3 +15,6 @@ Adobe After Effects Auto-Save
 *.orig
 Adobe After Effects Auto-Save
 
+# Blender auto saves
+*.blend?
+
