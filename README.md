@@ -28,6 +28,7 @@ a 582 Multimedia resource for all things motion graphics.
   - [beginner character sculpting](https://youtu.be/E79SLGdOGPw)
   - [beginner skin-modifier stick characters](https://youtu.be/DAAwy_l4jw4)
   - [Animate Characters in Blender - RIGIFY](https://www.youtube.com/watch?v=PKPo0-leJmU)
+  - [Blender physics & collisions](https://youtu.be/02u8Ag49Gec)
 
 
   #### 3d objects in After Effects
