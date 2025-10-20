@@ -30,6 +30,7 @@ a 582 Multimedia resource for all things motion graphics.
   - [Animate Characters in Blender - RIGIFY](https://www.youtube.com/watch?v=PKPo0-leJmU)
   - [Blender physics & collisions](https://youtu.be/02u8Ag49Gec)
   - [Blender cloth & soft body physics](https://youtu.be/9m1RcagR9sw)
+  - [Blender rigging & weight painting](https://youtu.be/DDeB4tDVCGY)
 
 
   #### 3d objects in After Effects
