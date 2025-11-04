@@ -21,6 +21,14 @@ a 582 Multimedia resource for all things motion graphics.
   - and [another take from SVGator](https://www.svgator.com/blog/motion-design-basics-guide/) in more general terms including web animation
   - [text effects gallery (Adobe)](https://blog.motionisland.com/after-effects-presets-text-animation/)
 
+### demo reels
+  - [Drew Jimenez' demo reel](https://www.youtube.com/watch?v=ART4ltmSY3Q)
+  - [Balala demo reel](https://youtu.be/wPnohSQBNlk)
+  - [Buff demo reel 2023](https://youtu.be/CDpNDFAfQX8)
+  - [Buff demo reel 2025](https://youtu.be/gQldOO6KiU8)
+  #### tutorials / advice
+  - [Madison Erwin on demo reels](https://youtu.be/7Fa_f19G8tA)
+  - [School of Motion on demo reels](https://www.schoolofmotion.com/blog/demo-reel-tips-motion-design)
 
 ### tutorials
   #### Blender
