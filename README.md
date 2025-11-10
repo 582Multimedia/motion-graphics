@@ -15,11 +15,20 @@ a 582 Multimedia resource for all things motion graphics.
 - [demos](/after-effects/)
 
 ## resources
+### biggest AE upgrade ever?
+  - [AE 2026 beta is out](https://youtu.be/WuqMupzIfUU)
+
 ### introductions & concepts
   - [what is "motion graphics" from Adobe themselves](https://www.adobe.com/uk/creativecloud/animation/discover/motion-graphics.html)
     - missing ["ABC of Architects"](https://vimeo.com/56974716)
   - and [another take from SVGator](https://www.svgator.com/blog/motion-design-basics-guide/) in more general terms including web animation
   - [text effects gallery (Adobe)](https://blog.motionisland.com/after-effects-presets-text-animation/)
+
+### title sequences
+  - [Mapal: cinematic 3d camera tracking](https://youtu.be/ofPMIgfgXwM)
+  - [Dope Motions: cinematic intro: animators & noise](https://youtu.be/e3rKT6OTDO4)
+  - 
+
 
 ### demo reels
   - [Drew Jimenez' demo reel](https://www.youtube.com/watch?v=ART4ltmSY3Q)
