@@ -221,8 +221,10 @@ Using your storyboard as a foundation, animate a 45–60 second title sequence t
 * Movie or Show Title
 
 ### Deliverables
-* Final Video (.mp4)
+* Final Video (.mp4) 
+  * uploaded to YouTube and linked to your web
 * Submit via Omnivox
+  * or upload to OneDrive link in your MIOs
 
 ## Project Evaluation  
 * Creativity: 30% 
