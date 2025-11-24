@@ -15,6 +15,24 @@ a 582 Multimedia resource for all things motion graphics.
 - [demos](/after-effects/)
 
 ## resources
+
+### cuts & transitions
+  - [Pond 5: 13 cuts &amp; transitions](https://blog.pond5.com/11099-13-creative-editing-techniques-every-video-editor-should-know/)     
+  - [cuts video (YouTube)](https://youtu.be/Fu3vhFlXV0w13)    
+  - [13cuts infographic](https://blog.pond5.com/23779-infographic-a-quick-guide-to-basic-video-editing-techniques/)
+          
+        
+
+### demo reels
+  - [Drew Jimenez' demo reel](https://www.youtube.com/watch?v=ART4ltmSY3Q)
+  - [Balala demo reel](https://youtu.be/wPnohSQBNlk)
+  - [Buff demo reel 2023](https://youtu.be/CDpNDFAfQX8)
+  - [Buff demo reel 2025](https://youtu.be/gQldOO6KiU8)
+  #### tutorials / advice
+  - [Madison Erwin on demo reels](https://youtu.be/7Fa_f19G8tA)
+  - [School of Motion on demo reels](https://www.schoolofmotion.com/blog/demo-reel-tips-motion-design)
+
+
 ### biggest AE upgrade ever?
   - [AE 2026 beta is out](https://youtu.be/WuqMupzIfUU)
 
@@ -27,17 +45,8 @@ a 582 Multimedia resource for all things motion graphics.
 ### title sequences
   - [Mapal: cinematic 3d camera tracking](https://youtu.be/ofPMIgfgXwM)
   - [Dope Motions: cinematic intro: animators & noise](https://youtu.be/e3rKT6OTDO4)
-  - 
 
 
-### demo reels
-  - [Drew Jimenez' demo reel](https://www.youtube.com/watch?v=ART4ltmSY3Q)
-  - [Balala demo reel](https://youtu.be/wPnohSQBNlk)
-  - [Buff demo reel 2023](https://youtu.be/CDpNDFAfQX8)
-  - [Buff demo reel 2025](https://youtu.be/gQldOO6KiU8)
-  #### tutorials / advice
-  - [Madison Erwin on demo reels](https://youtu.be/7Fa_f19G8tA)
-  - [School of Motion on demo reels](https://www.schoolofmotion.com/blog/demo-reel-tips-motion-design)
 
 ### tutorials
   #### Blender

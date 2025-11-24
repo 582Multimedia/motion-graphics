@@ -272,6 +272,13 @@ Each project should be clearly visible and presented with attention to timing, p
 * Audio: Optional, but music or subtle sound design is encouraged for impact and flow
 
 ## Deliverables
+* Figma planning page including: 
+    * description of the project
+    * target audience
+    * intentions & goals for your project
+    * research of other demo reels
+    * research of your own, personal style
+    * selection of what you want to include ( ideally with a visual )
 * Final Demo Reel (.mp4)
 * Submit via Omnivox
 
