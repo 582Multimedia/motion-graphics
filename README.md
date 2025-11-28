@@ -88,6 +88,10 @@ a 582 Multimedia resource for all things motion graphics.
   - [Vintage Parallax Photo Animation](https://www.youtube.com/watch?v=t7pDknj-AO4&t=47s)
   - [SonDuck: animating logos](https://youtu.be/M2S-6ptUvus)
   - [puppet tools for Fernanda](https://youtu.be/Fqls8BOZ-u0)
+
+#### Render / Media Encoder
+  - [Media Encoder](https://www.youtube.com/watch?v=1vXD0MijWU8)
+  - [Media Encoder and AE](https://www.youtube.com/watch?v=sgNp0kCN6eM)
     
 
 ### expressions in After Effects
