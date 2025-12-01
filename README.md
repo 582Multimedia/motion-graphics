@@ -24,6 +24,9 @@ a 582 Multimedia resource for all things motion graphics.
         
 
 ### demo reels
+  - [2026 design trends](https://youtu.be/OcOQQlfDVsI)
+  - [Gianope demo reel](https://youtu.be/YcwHWJvEZw8)
+  - [graphic design reel](https://youtu.be/lAyWnQENL8s)
   - [Drew Jimenez' demo reel](https://www.youtube.com/watch?v=ART4ltmSY3Q)
   - [Balala demo reel](https://youtu.be/wPnohSQBNlk)
   - [Buff demo reel 2023](https://youtu.be/CDpNDFAfQX8)
