@@ -1,0 +1,30 @@
+Report created: 
+	2025-11-25	3:33:30 PM
+
+Project name: week6-3drendering (converted).aep
+
+Source files collected to: 
+	C:\Users\nortonb\Documents\repositories\motion-graphics\after-effects\motion-graphics-2\week6-3drendering (converted) folder
+
+Source files collected: For selected comps
+
+Collected comps:  
+	Comp 3
+	
+Number of collected files:  4
+
+Size of collected files:  6.3 MB
+
+Collected source files: 
+	C:\Users\nortonb\Documents\repositories\motion-graphics\after-effects\assets\Capybara.obj
+	C:\Users\nortonb\Documents\repositories\motion-graphics\after-effects\assets\Capybara.mtl
+	C:\Users\nortonb\Documents\repositories\motion-graphics\after-effects\assets\Capybara_BaseColor.png
+	C:\Users\nortonb\Documents\repositories\motion-graphics\character_elvis.fbx
+	
+Rendering plug-ins:
+	Advanced 3D
+	
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Helvetica”, Font style: “Regular”
+
