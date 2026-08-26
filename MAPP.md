@@ -12,6 +12,23 @@ Festival information: [MAPP_MTL – Minute MAPP 2026](https://www.mappmtl.com/en
 
 Create a compelling 60-second projection mapping animation using the official projection template. All visual techniques and media are welcome, provided the work is original and designed for the mapping surface.
 
+
+## timeline
+  - day 1
+    - organization / Figma / mg2/ webpage
+    - storyboard
+    - assign tasks & deadlines
+  - Sept 1
+    - revvisions?
+    - production timeline / start to create assets 
+  - Sept 2
+    - production, shooting, recording, illustrating
+  - Sept 8
+    - all assets ready
+  - Sept 9 
+    - assemble all assets into project / compositions
+  - Sept 14 submit ( !! hard deadline !! )    
+
 ## Team Formation
 
 Work in teams of +/-4 students. Each member must take one of the following roles:
