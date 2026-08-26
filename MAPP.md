@@ -84,5 +84,5 @@ Example: `MadameX -- StudioCollective.mp4`
 ## Important Dates
 
 - **August 30, 2026** — Festival registration deadline
-- **September 14, 2026** — Final project submission (MAPP delivery deadline)
+- **September 12, 2026** — Final project submission (MAPP delivery deadline)
 - **October 1, 2026** — Public projection at Minute MAPP 2026
