@@ -43,6 +43,7 @@ a 582 Multimedia resource for all things motion graphics.
   - [AE 2026 beta is out](https://youtu.be/WuqMupzIfUU)
 
 ### introductions & concepts
+  - [Disney animation techniques video](https://youtu.be/dS_9Coeb8CY)
   - [what is "motion graphics" from Adobe themselves](https://www.adobe.com/uk/creativecloud/animation/discover/motion-graphics.html)
     - missing ["ABC of Architects"](https://vimeo.com/56974716)
   - and [another take from SVGator](https://www.svgator.com/blog/motion-design-basics-guide/) in more general terms including web animation
