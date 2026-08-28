@@ -1,6 +1,7 @@
 # Minute MAPP 2026
 
 ## Create a 60-Second Video Mapping Artwork
+### submission deadline Sept. 12 !!
 
 As part of MAPP_MTL – Minute MAPP 2026, you will design and produce an original 60-second video mapping artwork created specifically for the festival's official projection surface.
 
@@ -18,16 +19,16 @@ Create a compelling 60-second projection mapping animation using the official pr
     - organization / Figma / mg2/ webpage
     - storyboard
     - assign tasks & deadlines
-  - Sept 1
-    - revvisions?
+  - Sept 1/3
+    - revisions?
     - production timeline / start to create assets 
-  - Sept 2
+  - Sept 2/4
     - production, shooting, recording, illustrating
-  - Sept 8
+  - Sept 8/10
     - all assets ready
-  - Sept 9 
+  - Sept 9/11
     - assemble all assets into project / compositions
-  - Sept 14 submit ( !! hard deadline !! )    
+  - **Sept 12 submit** ( !! hard deadline !! )    
 
 ## Team Formation
 
