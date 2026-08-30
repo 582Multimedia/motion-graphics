@@ -3,6 +3,10 @@
 Thumbs.db
 Adobe After Effects Auto-Save
 
+
+# large files
+exports/
+
 # Ignore IDE/editor specific files
 .vscode/
 .idea/
