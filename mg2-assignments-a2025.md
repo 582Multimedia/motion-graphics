@@ -221,8 +221,10 @@ Using your storyboard as a foundation, animate a 45–60 second title sequence t
 * Movie or Show Title
 
 ### Deliverables
-* Final Video (.mp4)
+* Final Video (.mp4) 
+  * uploaded to YouTube and linked to your web
 * Submit via Omnivox
+  * or upload to OneDrive link in your MIOs
 
 ## Project Evaluation  
 * Creativity: 30% 
@@ -270,6 +272,13 @@ Each project should be clearly visible and presented with attention to timing, p
 * Audio: Optional, but music or subtle sound design is encouraged for impact and flow
 
 ## Deliverables
+* Figma planning page including: 
+    * description of the project
+    * target audience
+    * intentions & goals for your project
+    * research of other demo reels
+    * research of your own, personal style
+    * selection of what you want to include ( ideally with a visual )
 * Final Demo Reel (.mp4)
 * Submit via Omnivox
 

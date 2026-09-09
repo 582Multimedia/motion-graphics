@@ -3,6 +3,9 @@ a 582 Multimedia resource for all things motion graphics.
 
 >Motion is life and life is motion
 
+## MG2 a2026
+- [MAPP project a2026](MAPP.md)
+
 ### Motion Graphics 2 links
   - [MG2 assignments a2025](/mg2-assignments-a2025.md)
   - [MG2 schedule a2025](/mg2-schedule-a2025.md)
@@ -15,14 +18,70 @@ a 582 Multimedia resource for all things motion graphics.
 - [demos](/after-effects/)
 
 ## resources
+
+### cuts & transitions
+  - [Pond 5: 13 cuts &amp; transitions](https://blog.pond5.com/11099-13-creative-editing-techniques-every-video-editor-should-know/)     
+  - [cuts video (YouTube)](https://youtu.be/Fu3vhFlXV0w13)    
+  - [13cuts infographic](https://blog.pond5.com/23779-infographic-a-quick-guide-to-basic-video-editing-techniques/)
+          
+        
+
+### demo reels
+  - [2026 design trends](https://youtu.be/OcOQQlfDVsI)
+  - [Gianope demo reel](https://youtu.be/YcwHWJvEZw8)
+  - [graphic design reel](https://youtu.be/lAyWnQENL8s)
+  - [Drew Jimenez' demo reel](https://www.youtube.com/watch?v=ART4ltmSY3Q)
+  - [Balala demo reel](https://youtu.be/wPnohSQBNlk)
+  - [Buff demo reel 2023](https://youtu.be/CDpNDFAfQX8)
+  - [Buff demo reel 2025](https://youtu.be/gQldOO6KiU8)
+  #### tutorials / advice
+  - [Madison Erwin on demo reels](https://youtu.be/7Fa_f19G8tA)
+  - [School of Motion on demo reels](https://www.schoolofmotion.com/blog/demo-reel-tips-motion-design)
+
+
+### biggest AE upgrade ever?
+  - [AE 2026 beta is out](https://youtu.be/WuqMupzIfUU)
+
 ### introductions & concepts
+  - [Disney animation techniques video](https://youtu.be/dS_9Coeb8CY)
+    - [article with the video](https://justingagen.com/tutorial-12-principles-of-animation-bouncing-ball-tutorial-in-after-effects/)
   - [what is "motion graphics" from Adobe themselves](https://www.adobe.com/uk/creativecloud/animation/discover/motion-graphics.html)
     - missing ["ABC of Architects"](https://vimeo.com/56974716)
   - and [another take from SVGator](https://www.svgator.com/blog/motion-design-basics-guide/) in more general terms including web animation
   - [text effects gallery (Adobe)](https://blog.motionisland.com/after-effects-presets-text-animation/)
 
+### title sequences
+  - [Mapal: cinematic 3d camera tracking](https://youtu.be/ofPMIgfgXwM)
+  - [Dope Motions: cinematic intro: animators & noise](https://youtu.be/e3rKT6OTDO4)
+
+
 
 ### tutorials
+  #### Blender
+  - [beginner character modelling](https://youtu.be/O6HQhs-gk50)
+  - [beginner character sculpting](https://youtu.be/E79SLGdOGPw)
+  - [beginner skin-modifier stick characters](https://youtu.be/DAAwy_l4jw4)
+  - [Animate Characters in Blender - RIGIFY](https://www.youtube.com/watch?v=PKPo0-leJmU)
+  - [Blender physics & collisions](https://youtu.be/02u8Ag49Gec)
+  - [Blender cloth & soft body physics](https://youtu.be/9m1RcagR9sw)
+  - [Blender rigging & weight painting](https://youtu.be/DDeB4tDVCGY)
+
+
+  #### 3d objects in After Effects
+   - [Illustrator to After Effects workflows](https://youtu.be/jKyMPFncsmk)
+   - [import Blender * animations *](https://youtu.be/HS9mNpfYmkI)
+   - [Import 3D modeling object in After Effect](https://helpx.adobe.com/ca/after-effects/using/import-3d-model.html)
+   - [Animate Characters in AE](https://www.youtube.com/watch?v=ojJUToDaVd0)
+
+  #### characters & rigging
+  - [CC Particle Systems II + CC Particle World](https://www.youtube.com/watch?v=7Fp9207Ds5I&t=130s)
+  - [CC Particle World Custom Shapes](https://www.youtube.com/watch?v=XxwxSXhU52Q)
+  - [Particle Systems in Blender](https://www.youtube.com/watch?v=Lj2EBG2_ooQ)
+  - [4 Puppet Pin Techniques](https://www.youtube.com/watch?v=Fqls8BOZ-u0)
+  - [Character Rigging in After Effects](https://www.youtube.com/watch?v=iMuG6okkm58)
+  - [puppet tools for Fernanda](https://youtu.be/Fqls8BOZ-u0)
+
+  #### After Effects
   - [AE Basics YouTube channel](https://www.youtube.com/@AfterEffectsBasics)
   - [top VFX -Sonduck](https://www.youtube.com/watch?v=8_yJQBs2JVI)
   - [Rotoscoping tutorial](https://youtu.be/eoOIrdb_0ko)
@@ -35,16 +94,12 @@ a 582 Multimedia resource for all things motion graphics.
   - [Marvel title sequence (Ben Mariott)](https://blog.motionisland.com/after-effects-presets-text-animation/)
   - [Parallax Animation 2.5 D](https://www.youtube.com/watch?v=cVtqsvsHi3M)
   - [Vintage Parallax Photo Animation](https://www.youtube.com/watch?v=t7pDknj-AO4&t=47s)
-  - [Import 3D modeling object in After Effect](https://helpx.adobe.com/ca/after-effects/using/import-3d-model.html)
-  - [CC Particle Systems II + CC Particle World](https://www.youtube.com/watch?v=7Fp9207Ds5I&t=130s)
-  - [CC Particle World Custom Shapes](https://www.youtube.com/watch?v=XxwxSXhU52Q)
-  - [Particle Systems in Blender](https://www.youtube.com/watch?v=Lj2EBG2_ooQ)
-  - [4 Puppet Pin Techniques](https://www.youtube.com/watch?v=Fqls8BOZ-u0)
-  - [Character Rigging in After Effects](https://www.youtube.com/watch?v=iMuG6okkm58)
   - [SonDuck: animating logos](https://youtu.be/M2S-6ptUvus)
-  - [Animate Characters in AE](https://www.youtube.com/watch?v=ojJUToDaVd0)
-  - [Animate Characters in Blender - RIGIFY](https://www.youtube.com/watch?v=PKPo0-leJmU)
   - [puppet tools for Fernanda](https://youtu.be/Fqls8BOZ-u0)
+
+#### Render / Media Encoder
+  - [Media Encoder](https://www.youtube.com/watch?v=1vXD0MijWU8)
+  - [Media Encoder and AE](https://www.youtube.com/watch?v=sgNp0kCN6eM)
     
 
 ### expressions in After Effects

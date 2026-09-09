@@ -3,6 +3,12 @@
 Thumbs.db
 Adobe After Effects Auto-Save
 
+
+# large files
+exports/
+everything-toujours -- Bruce.mp4
+
+
 # Ignore IDE/editor specific files
 .vscode/
 .idea/
@@ -14,4 +20,7 @@ Adobe After Effects Auto-Save
 *.bak
 *.orig
 Adobe After Effects Auto-Save
+
+# Blender auto saves
+*.blend?
 
