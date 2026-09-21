@@ -24,3 +24,4 @@ Adobe After Effects Auto-Save
 # Blender auto saves
 *.blend?
 
+*logs*
